@@ -1,5 +1,6 @@
 package OneABC;
 
+//yo
 public class Bilägare extends Person {
 
     private String körkortstyp;
